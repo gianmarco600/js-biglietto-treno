@@ -15,7 +15,7 @@ var prezzoTot = 0.21 * distanza;
 var sconto = 0;
 
 
-if (anni < 11){
+if (anni < 19){
     prezzoTot = prezzoTot * 0.8;
     sconto = 1;
 }
